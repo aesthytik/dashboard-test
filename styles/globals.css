@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer base {
+  html {
+    background: #1C1E2A;
+  }
+  body {
+    background-image: linear-gradient(to right, #1C1E2A 50% , #242731 50%);
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #fff;
+    border: 0.2px solid #52514E;
+  }
+}
+

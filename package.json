@@ -1,0 +1,49 @@
+{
+  "name": "strip-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@web3-react/types": "^6.0.7",
+    "axios": "^0.26.1",
+    "moment": "^2.29.3",
+    "next": "12.1.4",
+    "prop-types": "^15.8.1",
+    "react": "18.0.0",
+    "react-countdown": "^2.3.2",
+    "react-dom": "18.0.0",
+    "react-icons": "^4.3.1",
+    "react-sidebar": "^3.0.2",
+    "react-stacked-carousel": "^1.1.4",
+    "react-toast-notifications": "^2.5.1"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.181",
+    "@types/node": "17.0.23",
+    "@types/react": "18.0.1",
+    "@types/react-dom": "18.0.0",
+    "@types/react-sidebar": "^3.0.2",
+    "@types/tailwindcss": "^3.0.10",
+    "autoprefixer": "^10.4.4",
+    "eslint": "^8.8.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-typescript": "^16.1.0",
+    "eslint-config-next": "12.0.9",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jest": "^26.0.0",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "postcss": "^8.4.12",
+    "prettier": "^2.5.1",
+    "tailwindcss": "^3.0.24",
+    "typescript": "4.6.3"
+  }
+}
