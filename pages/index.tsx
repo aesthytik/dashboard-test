@@ -33,7 +33,7 @@ function Home() {
                         strokeLinecap="round"
                         strokeLinejoin="round"
                         strokeWidth="2"
-                        className="text-indigo-500 w-12 h-12 mb-3 inline-block mr-5"
+                        className="text-black w-12 h-12 mb-3 inline-block mr-5"
                         viewBox="0 0 24 24"
                       >
                         <path d="M8 17l4 4 4-4m-4-5v9" />
@@ -53,7 +53,7 @@ function Home() {
                         strokeLinecap="round"
                         strokeLinejoin="round"
                         strokeWidth="2"
-                        className="text-indigo-500 w-12 h-12 mb-3 inline-block mr-5"
+                        className="text-black w-12 h-12 mb-3 inline-block mr-5"
                         viewBox="0 0 24 24"
                       >
                         <path d="M8 17l4 4 4-4m-4-5v9" />
@@ -73,7 +73,7 @@ function Home() {
                         strokeLinecap="round"
                         strokeLinejoin="round"
                         strokeWidth="2"
-                        className="text-indigo-500 w-12 h-12 mb-3 inline-block mr-5"
+                        className="text-black w-12 h-12 mb-3 inline-block mr-5"
                         viewBox="0 0 24 24"
                       >
                         <path d="M8 17l4 4 4-4m-4-5v9" />
@@ -93,7 +93,7 @@ function Home() {
                         strokeLinecap="round"
                         strokeLinejoin="round"
                         strokeWidth="2"
-                        className="text-indigo-500 w-12 h-12 mb-3 inline-block mr-5"
+                        className="text-black w-12 h-12 mb-3 inline-block mr-5"
                         viewBox="0 0 24 24"
                       >
                         <path d="M8 17l4 4 4-4m-4-5v9" />

@@ -42,9 +42,9 @@ function Sidebar() {
       </div>
 
       <div className="w-full px-3">
-        <MenuButton href="/" name="Dashboard" icon={<HiChartSquareBar size={30} />} />
-        <MenuButton href="/loanbook" name="Loanbook" icon={<HiShoppingBag size={30} />} />
-        <MenuButton href="/collection" name="Collection" icon={<HiOutlineBriefcase size={30} />} />
+        <MenuButton href="/" name="Home" icon={<HiChartSquareBar size={30} />} />
+        <MenuButton href="/loanbook" name="Visitor" icon={<HiShoppingBag size={30} />} />
+        <MenuButton href="/collection" name="Analytics" icon={<HiOutlineBriefcase size={30} />} />
         <MenuButton href="/settings" name="Settings" icon={<HiOutlineCog size={30} />} />
       </div>
     </div>
